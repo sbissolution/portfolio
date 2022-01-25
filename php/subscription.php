@@ -4,7 +4,7 @@ $email = $_POST['sub_email'];
 
 
 
-$to = 'themewar@gmail.com';
+$to = 'sjblake@blakeis.com';
 $subject = 'Stellar Subscription';
 
 $message = 'Subscription Request Received From Stellar:<br/><br/>';

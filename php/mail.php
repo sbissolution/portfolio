@@ -16,7 +16,7 @@ else
 
 
 
-$to = 'themewar@gmail.com';
+$to = 'sjblake@blakeis.com';
 $subject = 'Stellar User Query';
 
 $message = '<strong>Name : </strong>'.$name.'<br/><br/>';
